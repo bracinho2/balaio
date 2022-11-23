@@ -1,0 +1,37 @@
+ //PAGINA
+    AppBar >
+        - Titulo
+        - subtitulo
+
+
+    Body > 
+        - Form
+            - campo NOME
+            - campo EMAIL
+            - campo SENHA (isObscured); (esconde a senha...)
+            - Botao
+
+
+Stateless {
+
+    Lógica do campo de texto;
+    Ele recebe: Icone (esqueda);
+    Ele recebe: Texto (hint ou label) (sugestão do que é...)
+    REcebe validação > nome valida String e email valida email...(normalmente alguma coisa que tenha arroba no meio); (regex);
+
+}
+
+Statefull {
+
+    Lógica do campo de texto;
+    Ele recebe: Icone (esqueda);
+    Ele recebe: Texto (hint ou label) (sugestão do que é...)
+    Ele recebe um bool: mostra ou não o conteúdo do campo de texto; (troca o estado quando clica no icone direito(suffixIcon)); Gesture Detector ou InkWell > onTap(){}
+    REcebe validação > nome valida String e email valida email...(normalmente alguma coisa que tenha arroba no meio); (regex);
+    
+}
+
+Stateless {
+    recebe um texto (rótulo dele);
+    void Function() onTap;
+}

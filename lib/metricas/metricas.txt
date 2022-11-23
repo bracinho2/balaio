@@ -1,0 +1,42 @@
+//Métrica de Estabilidade
+
+I = Instabilidade;
+Fan-In  > Dependências que Chegam;
+Fan-Out > Dependências que saem;
+
+Cálculo:
+    I = Fan-Out, (Fan-In + Fan-Out);
+    Variação = [
+                0,1 onde:
+                0 = Estabilidade máxima,
+                1 = Instabilidade máxima
+    ];
+
+
+//Métrica de Abstração
+
+Nc = Número de Classes de um componente
+Na = Número de Classes abstratas e Interfaces do Componente;
+A = Nível de Abstração;
+
+Cálculo:
+    A = Na / Nc;
+    Variação = [
+                0, 1 onde:
+                0 = Indica que não tem classe abstrata;
+                1 = Implica que o componente só tem classe abstrata;
+    ];
+
+
+//Métrica de Distância da Sequência Principal
+
+Cálculo:
+    D = (A+I-1);
+    Variação = [
+                0,1 onde:
+                0 = indica que o componente está na sequência principal;
+                1 = indica que o componente está mais distante da sequência principal;
+    ];
+
+
+   
