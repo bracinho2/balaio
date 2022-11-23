@@ -40,11 +40,15 @@ Theme (Design System em Monorepo);
 
 Dica para criar o package:
 
-```flutter create --template=package nomeDoPackage```
+```
+flutter create --template=package nomeDoPackage
+```
 
 No arquivo principal você deve exportar os arquivos; Do contrário eles não ficarão visíveis para o outro projeto;
 
-```export 'themes/themes.dart'```
+```
+export 'themes/themes.dart'
+```
 
 Há a necessidade de relatar no pubspec.yaml o caminho para o novo package:
 > O caminho poderá ter um ../ indicando a navegação entre pastas;
@@ -78,4 +82,6 @@ scripts:
 
 ### Ativação do Melos
 
-```dart pub global activate melos```
+```
+dart pub global activate melos
+```
