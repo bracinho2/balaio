@@ -49,8 +49,10 @@ No arquivo principal você deve exportar os arquivos; Do contrário eles não fi
 Há a necessidade de relatar no pubspec.yaml o caminho para o novo package:
 > O caminho poderá ter um ../ indicando a navegação entre pastas;
 
-```cambona:
-    path: cambona```
+```
+cambona:
+    path: cambona
+```
 
 
 ## Melos
@@ -72,8 +74,8 @@ packages:
 
 scripts:
   hello: echo 'Hello World Melos =)'
-
 ```
 
 ### Ativação do Melos
+
 ```dart pub global activate melos```
