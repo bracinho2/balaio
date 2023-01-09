@@ -1,3 +1,4 @@
+
 # Ah, e os nossos nomes das classes???
 
 Digamos que você esteja construindo uma **ABSTRACT FACTORY** para criar formas. Essa factory será uma interface, e implementada por uma classe concreta. 
@@ -17,3 +18,5 @@ Portanto, eu devo codificar seja a interface ou a implementação, escolho esta.
 
 
 ***Tio Bob em Código Limpo, 2011, pág.24***
+
+#programacao #aprendizado #nomes #classes #melhorias #atualizacoes #estudar #dart #flutter #programarmelhor #altodesempenho #foco #flutterando #fteam #semprealuno #sulinapr #bracinhodesulina #flutterlovers
