@@ -59,6 +59,6 @@
 
 ## CONCLUSÃO
 
->Portanto, este livro não pode prometer lhes tornar um bom programdor. Ou lhe dar 
+>Portanto, este livro não pode prometer lhes tornar um bom programador. Ou lhe dar 
 >"sensibilidade ao código". Tudo o que pode fazer é lhe mostrar a linha de pensamento de 
 >bons programadores e truques, técnicas e ferramentas que eles usam.
