@@ -48,7 +48,9 @@
     >lembrar de que o "r" minúsculo é uma versão da URL sem o HOST e contexto, então 
     >você é muito esperto. 
 
-        ***Uma diferença entre um programador esperto e um programador profissional é que este entende que **clareza é fundamental**. Os profissionais usam seus poders para o bem, e escrevem códigos que outros podem entender***
+    >Uma diferença entre um programador esperto e um programador profissional é que >este 
+    >entende que **clareza é fundamental**. Os profissionais usam seus poders para >o bem, e 
+    >escrevem códigos que outros podem entender.
 
 9. CONSELHOS:
     - Selecione uma palavra por conceito;
