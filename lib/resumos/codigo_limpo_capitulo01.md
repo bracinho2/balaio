@@ -37,7 +37,7 @@
     - Um código sem testes, não está limpo. Não importa o quão elegante, legível ou acessível esteja, se ele não possuir testes, ele não é limpo.
 
     7.4. Michael Feathers
-    - Um código lmpo sempre parece que foi escrito por alguém que se importava.
+    - Um código limpo sempre parece que foi escrito por alguém que se importava.
     - Em duas palavras: se importar.
 
     7.5. Ron Jeffries
