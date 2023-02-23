@@ -4,7 +4,7 @@
 
 - Pequenas coisas são importantes. Este é um livro sobre preocupações modestas cujos valores estão longe de ser pequenos.
 
-- Mesmo assim, atenção aos detalhes é um fundamento de profissionalismo ainda mais críticio do que qualquer visão maior. Primeiro, é por meio da prática em pequenos trabalhos que porfissionais adquirem proficiência e confiança para se aventuarar nos maiores. Segundo, a menor parte de uma construção desleixada, a porta que não fecha direito ou o azulejo levemente torto no chão, ou mesmo uma mesa desarrumada, retiram completamente o charme do todo. É sobre isso que se trata o código limpo.
+- Mesmo assim, atenção aos detalhes é um fundamento de profissionalismo ainda mais crítico do que qualquer visão maior. Primeiro, é por meio da prática em pequenos trabalhos que porfissionais adquirem proficiência e confiança para se aventuarar nos maiores. Segundo, a menor parte de uma construção desleixada, a porta que não fecha direito ou o azulejo levemente torto no chão, ou mesmo uma mesa desarrumada, retiram completamente o charme do todo. É sobre isso que se trata o código limpo.
 
 ## 5S do Código
 
